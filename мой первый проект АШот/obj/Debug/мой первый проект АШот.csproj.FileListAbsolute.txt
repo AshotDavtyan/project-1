@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\bin\Debug\мой первый проект АШот.exe.config
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\bin\Debug\мой первый проект АШот.exe
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\bin\Debug\мой первый проект АШот.pdb
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\obj\Debug\мой первый проект АШот.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\obj\Debug\мой_первый_проект_АШот.Form1.resources
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\obj\Debug\мой_первый_проект_АШот.Properties.Resources.resources
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\obj\Debug\мой первый проект АШот.csproj.GenerateResource.cache
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\obj\Debug\мой первый проект АШот.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\obj\Debug\мой первый проект АШот.exe
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\obj\Debug\мой первый проект АШот.pdb
+C:\Users\student\source\repos\мой первый проект АШот\мой первый проект АШот\obj\Debug\мой_первый_проект_АШот.Form2.resources
